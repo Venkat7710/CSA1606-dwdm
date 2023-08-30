@@ -1,0 +1,4 @@
+#Line plot
+plot(values, type = "l")
+#Scatter plot
+plot(values, type = "p", xlab = "X-AXIS",ylab = "Y-AXIS")
