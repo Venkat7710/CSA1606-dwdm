@@ -1,0 +1,5 @@
+values <- c(1:8)
+hist(values)
+barplot(values)
+pie(values)
+boxplot(values)
